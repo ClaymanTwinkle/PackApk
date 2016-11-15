@@ -18,6 +18,7 @@
 - `create_dir_name` 将在`base_file_dir`生成一个目录，用于存放项目代码和打出来的APK文件
 - `create_code_dir_name` 项目代码存放的目录名
 - `create_apk_dir_name` APK文件存放目录名
+- `apk_name` 自定义apk的名字，必须带后缀`.apk`
 
 配置好后你就可以使用python命令行运行该脚本，等待打包完成。
 
