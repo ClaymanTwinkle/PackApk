@@ -11,7 +11,7 @@
 3.然后配置`auto.config`文件：
 
 - `Root_SDK_Dir` 是你的SDK的绝对路径
-- `git_clone_address` 是你的Gid地址
+- `git_clone_address` 是你的Git地址
 - `git_branch_name` 要拉取的远端分支名
 - `assembleRelease` boolean值，是否打release包
 - `base_file_dir` 是一个绝对路径，可随便填
